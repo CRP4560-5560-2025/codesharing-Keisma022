@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, December 13, 2025 8:50:32 PM</msg><msg code="1" type="100">Traceback (most recent call last):
+  File "&lt;string&gt;", line 281, in execute
+arcgisscripting.ExecuteError: CSV Join Field and CSV Value Field cannot be the same.
+</msg><msg code="-2147467259" type="100">Failed to execute (CensusTractJoinAndPlot).</msg><msg code="0" type="3">Failed at Saturday, December 13, 2025 8:50:37 PM (Elapsed Time: 4.50 seconds)</msg></messages>

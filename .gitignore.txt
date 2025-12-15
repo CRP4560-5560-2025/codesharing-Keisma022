@@ -1,0 +1,17 @@
+# ArcGIS Pro / Python junk
+*.pyc
+__pycache__/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ArcGIS Pro project temp/cache (safe to ignore)
+*.aprx~ 
+*.lock
+Index/
+Cache/
+Logs/
+
+# Optional: ignore outputs geodatabase if it gets big
+outputs/*.gdb/
+outputs/*.gdb-lock/
